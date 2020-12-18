@@ -1,0 +1,8 @@
+{
+    "BOT_TOKEN" : "Nzg5MzQ0ODI5MDI0ODk0OTk2.X9wsqA.XAfKn2i_86f7dJ9EWlPOH0u2Gqk",
+    "RAIDER" : {
+        "base_url" : "https://raider.io/api/v1",
+        "personajes" : "characters/profile?",
+        "guilds" : "guilds/profile?"
+    }
+}
